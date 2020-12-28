@@ -5,7 +5,7 @@ main:
     url: /portfolio/
     
   - title: "Research"
-    url: /files/Potter-ResearchStatement2020.pdf
+    url: /research/
 
   - title: "CV"
     url: /files/PotterCV.pdf
