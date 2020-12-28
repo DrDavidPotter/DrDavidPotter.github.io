@@ -1,5 +1,5 @@
 ---
-title: "MNorthwestern University Marches Against the Muslim Ban (2017)"
+title: "Northwestern University Marches Against the Muslim Ban (2017)"
 excerpt: "<br/><img src='/images/G21.jpg'>"
 collection: portfolio
 ---
