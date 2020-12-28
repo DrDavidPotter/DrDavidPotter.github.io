@@ -8,7 +8,7 @@ In 2020, I produced a promotional video for Sawstone Brewery in Morehead, KY, il
 
 
 
-<video controls width="1920">
+<video controls width="1000">
 
     <source src="/images/GrainToGlass_V3.mp4"
             type="video/mp4"
