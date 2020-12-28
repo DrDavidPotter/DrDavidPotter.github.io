@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "A brief non-technical introduction"
+title: "A non-technical introduction"
 ---
 
 I study what it is about humans that lets us, and no other animals, use language[^1]. Linguists call this capacity for language the “human language faculty.” Because language is something we do with our minds, Linguists like to categorize our discipline as a part of the [cognitive sciences](https://en.wikipedia.org/wiki/Cognitive_science). 
@@ -17,7 +17,7 @@ For a technical overview of my research please see this (longer) [research summa
 
 [^2]: Your elementary school teacher might have told you to not use a double negative like “I didn’t do nothing today but binge the Crown.” But in point of fact, utterances like these are perfectly natural for speakers of many varieties of English, including speakers of Appalachian English where I live in Morehead, Kentucky.
 
-[^3]: This saying comes from some really cool language science communicators. [Check them out!](https://lingthusiasm.com)
+[^3]: This saying comes from the really cool language science communicators at Lingthusiasm. [Check them out!](https://lingthusiasm.com)
 
 
 
