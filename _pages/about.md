@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is funky
+About me 
 ======
 
-This is about me 
 1. Phd in Lx
 1. ESL educator
 1. photographer
