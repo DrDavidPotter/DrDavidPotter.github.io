@@ -1,5 +1,5 @@
 ---
-title: "Sawstone Brewery: Grain to Glass (2020)"
+title: "Sawstone Brewery: Grain to Glass (Video, 2020)"
 excerpt: "<br/><img src='/images/Triple.jpg'>"
 collection: portfolio
 ---
