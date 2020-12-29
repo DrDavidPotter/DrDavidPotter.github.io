@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
 <br/><img src='/images/Colorado(web).jpg'>
 
 I am [a photographer](https://drdavidpotter.github.io/portfolio/) and a post-doctoral research associate in [linguistics](https://drdavidpotter.github.io/files/PotterCV.pdf) at Morehead State University. My photography focuses on photojournalistic and travel genres, but I also enjoy portraiture and product work. In [my linguistics research](https://drdavidpotter.github.io/research/), I use experimental methodologies to examine the syntax of elliptical and information structural phenomena. I have presented my research at international conferences and have numerous publications in leading academic journals. I also have formal training as an English language instructor, with more than seven years experience.
