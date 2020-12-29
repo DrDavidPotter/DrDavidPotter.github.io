@@ -4,13 +4,11 @@ excerpt: "<br/><img src='/images/Triple.jpg'>"
 collection: portfolio
 ---
 
-In 2020, I produced a promotional video for Sawstone Brewery in Morehead, KY, illustrating the brewing process from grain to glass. 
-
-
+I produced this promotional video for [Sawstone Brewery](https://www.sawstonebrewing.co) to share with customers the brewing process from grain to glass.
 
 <video controls width="1000">
 
-    <source src="/images/GrainToGlass_V3.mp4"
+    <source src="/images/GrainToGlass.mp4"
             type="video/mp4"
 			controls="true"
 			poster='/images/Triple.jpg'>

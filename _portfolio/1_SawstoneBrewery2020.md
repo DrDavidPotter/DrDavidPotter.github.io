@@ -1,10 +1,11 @@
 ---
 title: "Sawstone Brewery Promotional Materials (2020)"
-excerpt: "<br/><img src='/images/GrowlerGlassLake1.jpg'>"
+excerpt: "<br/><img src='/images/GrowlerGlassLake1.jpg'>
+"
 collection: portfolio
 ---
 
-In 2020, I produced a series of promotional materials Sawstone Brewery in Morehead, KY. 
+My friends at Sawstone Brewery in Morehead Kentucky asked me to produce product images of their beers, cans, growlers, and merchandise for use in [social media](https://www.instagram.com/sawstonebrewingco) and on their [website](https://www.sawstonebrewing.co). 
 
 <br/><img src='/images/GrowlerGlassLake1.jpg'>
 
