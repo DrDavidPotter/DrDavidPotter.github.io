@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "A non-technical introduction"
+title:
 ---
 
 I study what it is about humans that lets us, and no other animals, use language[^1]. Linguists call this capacity for language the “human language faculty.” Because language is something we do with our minds, Linguists like to categorize our discipline as a part of the [cognitive sciences](https://en.wikipedia.org/wiki/Cognitive_science). 
