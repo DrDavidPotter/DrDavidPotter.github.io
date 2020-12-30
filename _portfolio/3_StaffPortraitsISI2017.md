@@ -1,6 +1,6 @@
 ---
 title: "International Summer Institute Staff Portraits (2017)"
-excerpt: "<br/><img src='/images/Hammerman1.jpg'>"
+excerpt: "<br/>[<img src='/images/Hammerman1.jpg'>](https://drdavidpotter.github.io/portfolio/3_StaffPortraitsISI2017/)"
 collection: portfolio
 ---
 

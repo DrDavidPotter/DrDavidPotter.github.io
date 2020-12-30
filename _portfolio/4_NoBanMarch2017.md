@@ -1,6 +1,6 @@
 ---
 title: "Northwestern University Marches Against the Muslim Ban (2017)"
-excerpt: "<br/><img src='/images/G21.jpg'>"
+excerpt: "<br/>[<img src='/images/G21.jpg'>](https://drdavidpotter.github.io/portfolio/4_NoBanMarch2017/)"
 collection: portfolio
 ---
 

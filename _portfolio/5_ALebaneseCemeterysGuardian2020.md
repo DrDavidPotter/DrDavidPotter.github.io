@@ -1,6 +1,6 @@
 ---
 title: "The Cemetery's Guardian (Lebanon, 2019)"
-excerpt: "<br/><img src='/images/A_CEM.jpg'>"
+excerpt: "<br/>[<img src='/images/A_CEM.jpg'>](https://drdavidpotter.github.io/portfolio/5_ALebaneseCemeterysGuardian2020/)"
 collection: portfolio
 ---
 

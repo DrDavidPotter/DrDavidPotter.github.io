@@ -1,6 +1,6 @@
 ---
 title: "Sawstone Brewery: Grain to Glass (Video, 2020)"
-excerpt: "<br/><img src='/images/Triple.jpg'>"
+excerpt: "<br/>[<img src='/images/Triple.jpg'>](https://drdavidpotter.github.io/portfolio/2_SawstoneBreweryVideography2020/)"
 collection: portfolio
 ---
 
