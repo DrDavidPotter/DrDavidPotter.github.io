@@ -1,6 +1,6 @@
 ---
 title: "International Summer Institute Social Events (2017)"
-excerpt: "<br/><img src='/images/1_BT3.jpg'>"
+excerpt: "<br/>[<img src='/images/1_BT3.jpg'](https://drdavidpotter.github.io/portfolio/8_SocialEventsISI2017/)>"
 collection: portfolio
 ---
 
