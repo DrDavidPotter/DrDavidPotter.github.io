@@ -1,6 +1,6 @@
 ---
 title: "Sawstone Brewery Promotional Materials (2020)"
-excerpt: "<br/>[<img src='/images/GrowlerGlassLake1.jpg'>](https://drdavidpotter.github.io/portfolio/1_SawstoneBrewery2020/) ---"
+excerpt: "<br/>[<img src='/images/GrowlerGlassLake1.jpg'>](https://drdavidpotter.github.io/portfolio/1_SawstoneBrewery2020/)<hr>"
 collection: portfolio
 ---
 
