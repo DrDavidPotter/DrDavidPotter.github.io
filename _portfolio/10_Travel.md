@@ -1,6 +1,6 @@
 ---
 title: "Travel photography"
-excerpt: "<br/>[<img src='/images/ThailandMonks.jpg'>](https://drdavidpotter.github.io/portfolio/9_Travel/)"
+excerpt: "<br/>[<img src='/images/ThailandMonks.jpg'>](https://drdavidpotter.github.io/portfolio/10_Travel/)"
 collection: portfolio
 ---
 
