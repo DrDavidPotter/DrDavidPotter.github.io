@@ -2,6 +2,9 @@
 title: "Sawstone Brewery Promotional Materials (2020)"
 excerpt: "<br/>[<img src='/images/GrowlerGlassLake1.jpg'>](https://drdavidpotter.github.io/portfolio/A_SawstoneBrewery2020/)"
 collection: portfolio
+redirect_from: 
+  - /1_SawstoneBrewery2020
+
 ---
 
 My friends at Sawstone Brewery in Morehead Kentucky asked me to produce product images of their beers, cans, growlers, and merchandise for use in [social media](https://www.instagram.com/sawstonebrewingco) and on their [website](https://www.sawstonebrewing.co). 
