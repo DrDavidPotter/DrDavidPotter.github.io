@@ -1,6 +1,6 @@
 ---
 title: "The Newroz Festival in Nashville, TN (2017)"
-excerpt: "<br/>[<img src='/images/Newroz37.jpg'>](https://drdavidpotter.github.io/portfolio/8_NewrozInNashville2017/)"
+excerpt: "<br/>[<img src='/images/Newroz37.jpg'>](https://drdavidpotter.github.io/portfolio/H_NewrozInNashville2017/)"
 collection: portfolio
 ---
 

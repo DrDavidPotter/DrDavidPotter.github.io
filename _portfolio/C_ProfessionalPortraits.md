@@ -1,6 +1,6 @@
 ---
 title: "Professional portraits"
-excerpt: "<br/>[<img src='/images/Emma_BW.jpg'>](https://drdavidpotter.github.io/portfolio/3_ProfessionalPortraits/)"
+excerpt: "<br/>[<img src='/images/Emma_BW.jpg'>](https://drdavidpotter.github.io/portfolio/C_ProfessionalPortraits/)"
 collection: portfolio
 ---
 

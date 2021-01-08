@@ -1,6 +1,6 @@
 ---
 title: "Promotional images for Duplicity Ensemble (2015)"
-excerpt: "<br/>[<img src='/images/2_DupDress.jpg'>](https://drdavidpotter.github.io/portfolio/7_DressRehersalDuplicityEnsemble2015/)"
+excerpt: "<br/>[<img src='/images/2_DupDress.jpg'>](https://drdavidpotter.github.io/portfolio/G_DressRehersalDuplicityEnsemble2015/)"
 collection: portfolio
 ---
 
