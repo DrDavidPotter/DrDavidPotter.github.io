@@ -3,7 +3,7 @@ title: "Sawstone Brewery Promotional Materials (2020)"
 excerpt: "<br/>[<img src='/images/GrowlerGlassLake1.jpg'>](https://drdavidpotter.github.io/portfolio/A_SawstoneBrewery2020/)"
 collection: portfolio
 redirect_from: 
-  - /1_SawstoneBrewery2020
+  - /portfolio/1_SawstoneBrewery2020
 
 ---
 
