@@ -1,10 +1,10 @@
 ---
-title: "Professional portraits"
+title: "The Sawstone portraits"
 excerpt: "<br/>[<img src='/images/Emma_BW.jpg'>](https://drdavidpotter.github.io/portfolio/C_ProfessionalPortraits/)"
 collection: portfolio
 ---
 
-A sample of professional portraits.
+In 2020, the Sawstone brewery owners requested that I take studio portraits of their staff and customers.
 
 <br/><img src='/images/Emma_BW.jpg'>
 
@@ -20,6 +20,10 @@ A sample of professional portraits.
 
 <br/><img src='/images/Morgan_2BW.jpg'>
 
+<br/><img src='/images/DET_BW.jpg'>
+
+<br/><img src='/images/DE_BW.jpg'>
+
 <br/><img src='/images/Derek.jpg'>
 
 <br/><img src='/images/Emma.jpg'>
@@ -33,3 +37,7 @@ A sample of professional portraits.
 <br/><img src='/images/John.jpg'>
 
 <br/><img src='/images/Morgan_2.jpg'>
+
+<br/><img src='/images/DET.jpg'>
+
+<br/><img src='/images/DE.jpg'>
