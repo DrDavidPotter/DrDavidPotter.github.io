@@ -12,7 +12,7 @@ Will Stevens, founder and head roaster at Goose Bridle Coffee Roasters, asked me
 
 <br/><img src='/images/EndPile1.jpg'>
 
-<br/><img src='/images/MM1.jpg.'>
+<br/><img src='/images/MM1.jpg'>
 
 <br/><img src='/images/KY.jpg'>
 
