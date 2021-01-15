@@ -1,5 +1,5 @@
 ---
-title: "Goose Bridle Coffee Roaster (2020)"
+title: "Goose Bridle Coffee Roasters (2020)"
 excerpt: "<br/>[<img src='/images/KY.jpg'>](https://drdavidpotter.github.io/portfolio/B_GooseBridleCoffee2020/)"
 collection: portfolio
 
